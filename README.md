@@ -1,4 +1,4 @@
 Java
 ====
 
-Assorted java homework
+Assorted java programs
